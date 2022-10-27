@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Fantasque Sans Mono';
+    src: local('Fantasque Sans Mono Regular'), local('FantasqueSansMono-Regular'), url('Fantasquesansmonoregular.woff2') format('woff2'), url('Fantasquesansmonoregular.woff') format('woff'), url('Fantasquesansmonoregular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fantasque Sans Mono';
+    src: local('Fantasque Sans Mono Italic'), local('FantasqueSansMono-Italic'), url('Fantasquesansmonoitalic.woff2') format('woff2'), url('Fantasquesansmonoitalic.woff') format('woff'), url('Fantasquesansmonoitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fantasque Sans Mono';
+    src: local('Fantasque Sans Mono Bold'), local('FantasqueSansMono-Bold'), url('Fantasquesansmonobold.woff2') format('woff2'), url('Fantasquesansmonobold.woff') format('woff'), url('Fantasquesansmonobold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fantasque Sans Mono';
+    src: local('Fantasque Sans Mono Bold Italic'), local('FantasqueSansMono-BoldItalic'), url('Fantasquesansmonobolditalic.woff2') format('woff2'), url('Fantasquesansmonobolditalic.woff') format('woff'), url('Fantasquesansmonobolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
