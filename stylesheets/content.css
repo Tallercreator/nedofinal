@@ -1,0 +1,174 @@
+@font-face {
+    font-family: 'Fantasque Sans Mono';
+    src: local('Fantasque Sans Mono Regular'), local('FantasqueSansMono-Regular');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fantasque Sans Mono';
+    src: local('Fantasque Sans Mono Italic'), local('FantasqueSansMono-Italic');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Fantasque Sans Mono';
+    src: local('Fantasque Sans Mono Bold'), local('FantasqueSansMono-Bold');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fantasque Sans Mono';
+    src: local('Fantasque Sans Mono Bold Italic'), local('FantasqueSansMono-BoldItalic');
+    font-weight: 700;
+    font-style: italic;
+}
+body{
+    margin-left: 120px;
+    padding: 0;
+    max-width: 1440px;
+}
+
+.Plashki {
+    margin-top: 40px;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+.plash1 {
+    width: 214px;
+    height: 73px;
+    background-color: #31CA3E;
+    border-radius: 100px;
+    border: 2px solid black;
+}
+
+.Mono{
+    font-size: 24px;
+    font-family: Fantasque Sans Mono;
+    font-style: normal;
+    color: #262626;
+    display: flex;
+    justify-content: center;
+    padding: 24px 24px;
+    margin: 0;
+}
+
+.plash2 {
+    width: 238px;
+    height: 73px;
+    background-color: #A81AFF;
+    border-radius: 100px;
+    border: 2px solid black;
+}
+.Zag{
+    font-size: 24px;
+    font-family: Fantasque Sans Mono;
+    font-style: normal;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    padding: 24px 24px;
+    margin: 0;
+}
+.both{
+    display: flex;
+}
+.all {
+    width: 70%;
+}
+.line {
+    width: 30%;
+    display: flex;
+}
+.line1{
+    border-left: 2px solid black;
+    height: 5000px;
+
+    left: 75%;
+    top: 0;
+}
+p {
+    font-style: normal;
+    font-family: Fantasque Sans Mono;
+    font-size: 20px;
+    color: #262626;
+    padding: 20px;
+}
+.From {
+    display: flex;
+
+}
+.comsan{
+    display: block;
+}
+.comic {
+    font-weight: bold;
+    color: #BA5CF3;
+    font-size: 64px;
+    margin-top: -10px;
+}
+.Sans {
+    font-size: 32px;
+    margin-top: -30px;
+}
+.vector{
+    margin-left: -36%;
+    margin-top: 10px;
+}
+.arrow {
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.authorr{
+    font-size: 40px;
+    font-family: Fantasque Sans Mono;
+    color: black;
+    font-weight: normal;
+    transform: rotate(90deg);
+    margin-top: 90%;
+
+}
+.Stitle {
+    margin-top: 200px;
+    font-size: 80px;
+    padding: 20px;
+    font-family: Fantasque Sans Mono;
+    font-weight: bold;
+    color: #262626;
+}
+.Phones {
+    display: flex;
+}
+.phone {
+    margin-left: 10%;
+    margin-top: 200px;
+}
+.smile1{
+    margin-top: 75%;
+    display: flex;
+    margin-left: -32px;
+}
+.History {
+    margin-top: -40%;
+    width: 420px;
+    height: 251px;
+    background-color: #A81AFF;
+    border: 2px solid black;
+    border-radius: 32px;
+}
+.istoria {
+    font-size: 64px;
+    font-weight: bold;
+    color: white;
+    padding-left: 32px;
+    padding-top: 32px;
+
+}
+.istoriamin {
+    color: white;
+    line-height: 130%;
+    padding-left: 32px;
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
